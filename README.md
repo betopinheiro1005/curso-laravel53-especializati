@@ -1,3 +1,39 @@
+# Curso de Laravel 5.3
+## EspecializaTI (Carlos Ferreira)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=iPTxznidNHo&list=PLVSNL1PHDWvR3PeLXz6nvBkDhv1IQk4wP)
+
+### Lista de aulas  
+
+Aulas 4 e 5 - Rotas  
+Aula 6 - Controllers  
+Aula 7 – Controllers Resource  
+Aula 8 – Views  
+Aula 9 – Sistema de Template Blade  
+Aula 10 – Sistema de Template Blade (Final)  
+Aula 11 – Blade @stacks  
+Aula 12 – Migrations  
+Aula 13 – Migration Refresh  
+Aula 14 – Seeders  
+Aula 15 – Models  
+Aula 16 – Primeiro cadastro no banco de dados  
+Aula 17 – Update  
+Aula 18 – Delete  
+Aula 19 – Melhorar a listagem dos itens (CSS)  
+Aula 20 – Formulários  
+Aula 21 – Requests  
+Aula 22 – Cadastrar dados do formulário  
+Aula 23 – Validação de dados  
+Aula 24 – Personalizar mensagens de erro  
+Aula 25 – Form Request Validation  
+Aula 26 – Preparando para editar dados  
+Aula 27 – Update dados laravel  
+Aula 28 - Pacote Collective Form and HTML  
+Aula 29 - Deletar  
+Aula 30 - Paginação  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
