@@ -5,6 +5,9 @@
 
 ### Lista de aulas  
 
+Aula 1 - Instalando o Laravel 5.3  
+Aula 2 - Estrutura de pastas do Laravel 5.3  
+Aula 3 - Criar VirtualHost  
 Aulas 4 e 5 - Rotas  
 Aula 6 - Controllers  
 Aula 7 – Controllers Resource  
