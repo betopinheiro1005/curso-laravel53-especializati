@@ -1,14 +1,19 @@
 # Curso de Laravel 5.3
 ## EspecializaTI (Carlos Ferreira)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=iPTxznidNHo&list=PLVSNL1PHDWvR3PeLXz6nvBkDhv1IQk4wP)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=iPTxznidNHo&list=PLVSNL1PHDWvR3PeLXz6nvBkDhv1IQk4wP)  
 
 Aula 1 - Instalando o Laravel 5.3  
 Aula 2 - Estrutura de pastas do Laravel 5.3  
 Aula 3 - Criar VirtualHost  
-Aulas 4 e 5 - Rotas  
+Aula 4 - Rotas - Parte 1  
+Aula 5 - Rotas - Parte 2  
 Aula 6 - Controllers  
 Aula 7 – Controllers Resource  
 Aula 8 – Views  
